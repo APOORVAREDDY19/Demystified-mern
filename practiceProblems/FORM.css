@@ -1,0 +1,32 @@
+#Register
+{
+    color: black;
+    text-align: center;
+    font-family: serif;
+    border: 1px dotted ;
+    
+}
+#name{
+    border-color: darkslategrey;
+    border-radius: 2px;
+    font-style: italic;
+    text-align: right;
+}
+#NAME{
+    border-color: darkslategray;
+    border-radius: 2px;
+    font-style: italic;
+    text-align: right;
+}
+body{
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+.option{
+    font-size: 15px;
+}
+table{
+      text-align: center;
+}
